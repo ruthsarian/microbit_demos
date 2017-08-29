@@ -1,4 +1,4 @@
-#BBC micro:bit Demos
+# BBC micro:bit Demos
 
 ## References
 * [MicroPython Guide](http://microbit.org/guide/python/)
