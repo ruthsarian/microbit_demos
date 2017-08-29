@@ -21,4 +21,4 @@ while True:
         if accelerometer.get_x() > 40:
             display.show(dice[0]);
         else:
-			display.show(random.choice(dice));
+            display.show(random.choice(dice));
